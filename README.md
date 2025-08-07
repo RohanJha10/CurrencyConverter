@@ -23,4 +23,4 @@ A lightweight application to convert between currencies using real-time exchange
 ---
 ###  UI Screenshot
 
-![Converter UI](images/ui-screenshot.png)
+![Converter UI](images.png)
